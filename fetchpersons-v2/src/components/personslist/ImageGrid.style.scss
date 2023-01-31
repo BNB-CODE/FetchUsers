@@ -1,0 +1,24 @@
+.img-list{
+    width: 1200;
+    height:560;
+    align-self: center;
+    padding-left: 20;
+    padding-bottom: 2;
+    columns: 3;
+    row-gap: 100;
+}
+.img-box{
+    // border-color:primary.main;
+
+    border: 1;
+    width: 200;
+    height:250;
+}
+.imglist-item{
+
+    width: 130;
+    height:130;
+    align-self: center;
+    padding-top: 10;
+
+}
